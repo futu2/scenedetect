@@ -2,7 +2,7 @@
   # See https://github.com/mhwombat/nix-for-numbskulls/blob/main/flakes.md
   # for a brief overview of what each section in a flake should or can contain.
 
-  description = "a very simple and friendly flake written in Python";
+  description = "nix flake for [pyscenedetect](https://github.com/Breakthrough/PySceneDetect) ";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
